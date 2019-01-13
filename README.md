@@ -1,0 +1,1 @@
+I am on a journey to teach myself Python and wanted to house some of my thoughts to self and experiments along the way.
